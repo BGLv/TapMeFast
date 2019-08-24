@@ -14,6 +14,9 @@
 		83C29B2D2311E45D00C81BD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83C29B2B2311E45D00C81BD7 /* LaunchScreen.storyboard */; };
 		83C29B382311E45D00C81BD7 /* TapMeFastTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83C29B372311E45D00C81BD7 /* TapMeFastTests.swift */; };
 		83C29B432311E45D00C81BD7 /* TapMeFastUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83C29B422311E45D00C81BD7 /* TapMeFastUITests.swift */; };
+		83C29B512311E48C00C81BD7 /* PORKYS_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 83C29B502311E48C00C81BD7 /* PORKYS_.TTF */; };
+		83C29B522311E48C00C81BD7 /* PORKYS_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 83C29B502311E48C00C81BD7 /* PORKYS_.TTF */; };
+		83C29B532311E48C00C81BD7 /* PORKYS_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 83C29B502311E48C00C81BD7 /* PORKYS_.TTF */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,7 @@
 		83C29B3E2311E45D00C81BD7 /* TapMeFastUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TapMeFastUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		83C29B422311E45D00C81BD7 /* TapMeFastUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapMeFastUITests.swift; sourceTree = "<group>"; };
 		83C29B442311E45D00C81BD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83C29B502311E48C00C81BD7 /* PORKYS_.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = PORKYS_.TTF; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,7 @@
 				83C29B292311E45D00C81BD7 /* Assets.xcassets */,
 				83C29B2B2311E45D00C81BD7 /* LaunchScreen.storyboard */,
 				83C29B2E2311E45D00C81BD7 /* Info.plist */,
+				83C29B502311E48C00C81BD7 /* PORKYS_.TTF */,
 			);
 			path = TapMeFast;
 			sourceTree = "<group>";
@@ -231,6 +236,7 @@
 			files = (
 				83C29B2D2311E45D00C81BD7 /* LaunchScreen.storyboard in Resources */,
 				83C29B2A2311E45D00C81BD7 /* Assets.xcassets in Resources */,
+				83C29B512311E48C00C81BD7 /* PORKYS_.TTF in Resources */,
 				83C29B282311E45B00C81BD7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83C29B522311E48C00C81BD7 /* PORKYS_.TTF in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +253,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83C29B532311E48C00C81BD7 /* PORKYS_.TTF in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
